@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/eliarshin/swagger-xss-test/main/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/eliarshin/swagger-xss-test/main/xss-fetch.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
